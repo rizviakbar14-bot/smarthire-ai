@@ -1,0 +1,501 @@
+skills,years_experience,department
+CSS React AWS HTML Kubernetes,0,Frontend
+Python NLP Tensorflow Flask,6,AI
+CSS React Flask FastAPI HTML,3,Frontend
+CSS FastAPI SQL Python Docker,4,Backend
+Kubernetes AWS React Docker,6,DevOps
+NLP Python Docker Tensorflow Kubernetes,6,AI
+HTML CSS React NodeJS,1,Frontend
+Kubernetes AWS Docker,2,DevOps
+FastAPI SQL NodeJS Python Docker Tensorflow,3,Backend
+Flask FastAPI SQL NodeJS Python Docker,2,Backend
+AWS Flask NLP Python Tensorflow,4,AI
+FastAPI SQL NodeJS Python Docker,0,Backend
+FastAPI SQL Python Docker HTML,5,Backend
+Kubernetes AWS Docker NodeJS,2,DevOps
+React FastAPI SQL Python Docker Tensorflow,6,Backend
+Python NLP Tensorflow HTML,1,AI
+AWS FastAPI SQL Python Docker Tensorflow,4,Backend
+CSS React SQL HTML Kubernetes,6,Frontend
+CSS React Docker Tensorflow HTML,0,Frontend
+HTML CSS React,2,Frontend
+AWS Flask FastAPI SQL Python Docker,5,Backend
+Python NLP Tensorflow HTML,5,AI
+Kubernetes AWS Docker,4,DevOps
+Python NLP Tensorflow AWS,2,AI
+HTML CSS React Tensorflow,3,Frontend
+AWS FastAPI SQL Docker Kubernetes,3,DevOps
+AWS React NLP Docker Kubernetes,4,DevOps
+Kubernetes AWS React Docker,4,DevOps
+Kubernetes AWS Docker Tensorflow,1,DevOps
+HTML CSS React NLP,4,Frontend
+AWS FastAPI Python Docker Kubernetes,0,DevOps
+CSS React FastAPI SQL HTML,4,Frontend
+FastAPI SQL Python Docker Tensorflow,3,Backend
+CSS FastAPI SQL Python Docker Kubernetes,2,Backend
+FastAPI SQL Python Docker Kubernetes,6,Backend
+FastAPI NLP SQL Python Tensorflow,6,AI
+CSS React SQL Python HTML,4,Frontend
+Python NLP SQL Tensorflow,6,AI
+NLP SQL NodeJS Python Tensorflow,6,AI
+Kubernetes AWS Docker FastAPI,2,DevOps
+CSS React NodeJS Tensorflow HTML,2,Frontend
+CSS AWS FastAPI SQL Python Docker,1,Backend
+CSS React FastAPI Tensorflow HTML,1,Frontend
+HTML CSS React Docker,0,Frontend
+NLP Python Tensorflow HTML Kubernetes,1,AI
+CSS NLP Python Docker Tensorflow,4,AI
+Flask FastAPI SQL NLP Python Docker,4,Backend
+Python NLP SQL Tensorflow,4,AI
+HTML CSS React Kubernetes,0,Frontend
+FastAPI SQL NodeJS Python Docker,2,Backend
+HTML CSS React NLP,0,Frontend
+React FastAPI SQL NodeJS Python Docker,4,Backend
+Flask NLP Python Tensorflow HTML,0,AI
+FastAPI NLP Python Docker Tensorflow,2,AI
+Python SQL Docker FastAPI,1,Backend
+Kubernetes AWS Docker Tensorflow,5,DevOps
+AWS NLP Python Tensorflow Kubernetes,6,AI
+AWS NodeJS Docker HTML Kubernetes,2,DevOps
+AWS React Flask Docker Kubernetes,4,DevOps
+FastAPI NLP SQL Python Tensorflow,0,AI
+AWS FastAPI SQL Python Docker,6,Backend
+HTML CSS React NLP,3,Frontend
+CSS React AWS Python HTML,2,Frontend
+AWS Flask Docker Tensorflow Kubernetes,1,DevOps
+FastAPI SQL NLP Python Docker HTML,5,Backend
+FastAPI SQL NLP NodeJS Python Docker,5,Backend
+AWS Docker Tensorflow HTML Kubernetes,4,DevOps
+CSS React Docker HTML Kubernetes,0,Frontend
+CSS React NLP HTML Kubernetes,3,Frontend
+Python NLP Tensorflow AWS,2,AI
+NLP SQL NodeJS Python Tensorflow,6,AI
+FastAPI SQL NLP Python Docker,0,Backend
+React FastAPI SQL Python Docker,1,Backend
+Python NLP Tensorflow AWS,3,AI
+CSS FastAPI NLP Python Tensorflow,3,AI
+Kubernetes AWS Docker CSS,2,DevOps
+FastAPI SQL NLP Python Docker,6,Backend
+CSS React FastAPI HTML Kubernetes,3,Frontend
+React NLP SQL Python Tensorflow,1,AI
+React FastAPI SQL NodeJS Python Docker,5,Backend
+NLP Python Docker Tensorflow HTML,2,AI
+AWS FastAPI SQL Python Docker Kubernetes,1,Backend
+Kubernetes AWS Docker SQL,3,DevOps
+Flask FastAPI SQL Python Docker,1,Backend
+AWS CSS Docker Tensorflow Kubernetes,5,DevOps
+Python NLP NodeJS Tensorflow,3,AI
+AWS React Docker HTML Kubernetes,4,DevOps
+Kubernetes AWS Docker Flask,0,DevOps
+Kubernetes AWS Docker Python,2,DevOps
+Flask FastAPI SQL Python Docker HTML,5,Backend
+HTML CSS React Flask,2,Frontend
+React FastAPI SQL Python Docker Kubernetes,3,Backend
+Python NLP React Tensorflow,1,AI
+CSS React NLP Python Tensorflow,0,AI
+Python NLP Tensorflow FastAPI,0,AI
+NLP Python Docker Tensorflow HTML,3,AI
+AWS CSS SQL Docker Kubernetes,6,DevOps
+CSS React AWS Python HTML,3,Frontend
+React FastAPI SQL Python Docker HTML,6,Backend
+Kubernetes AWS Docker Flask,2,DevOps
+NLP SQL NodeJS Python Tensorflow,3,AI
+FastAPI SQL NLP Python Docker Kubernetes,0,Backend
+Kubernetes AWS Docker,1,DevOps
+CSS React AWS Python HTML,1,Frontend
+AWS Python Docker HTML Kubernetes,0,DevOps
+CSS React Flask FastAPI HTML,6,Frontend
+CSS React FastAPI NLP HTML,4,Frontend
+CSS React FastAPI HTML Kubernetes,2,Frontend
+CSS NLP NodeJS Python Tensorflow,1,AI
+AWS NodeJS Docker Tensorflow Kubernetes,4,DevOps
+Python NLP SQL Tensorflow,1,AI
+Kubernetes AWS Docker FastAPI,3,DevOps
+Kubernetes AWS Docker CSS,0,DevOps
+AWS Docker Tensorflow HTML Kubernetes,3,DevOps
+AWS React Flask Docker Kubernetes,3,DevOps
+CSS React NLP NodeJS HTML,0,Frontend
+FastAPI NLP Python Tensorflow Kubernetes,4,AI
+AWS NLP Docker HTML Kubernetes,6,DevOps
+HTML CSS React FastAPI,5,Frontend
+CSS AWS NLP Python Tensorflow,1,AI
+Python SQL Docker FastAPI,6,Backend
+AWS FastAPI NodeJS Docker Kubernetes,5,DevOps
+FastAPI SQL Python Docker Tensorflow,0,Backend
+FastAPI SQL Python Docker Tensorflow,2,Backend
+Kubernetes AWS Docker Tensorflow,2,DevOps
+Flask NLP Python Tensorflow HTML,0,AI
+React FastAPI SQL NodeJS Python Docker,0,Backend
+CSS React SQL NLP HTML,1,Frontend
+Kubernetes AWS Docker NodeJS,4,DevOps
+FastAPI SQL NodeJS Python Docker,0,Backend
+AWS FastAPI Docker Tensorflow Kubernetes,5,DevOps
+CSS React FastAPI SQL HTML,5,Frontend
+Kubernetes AWS Docker CSS,2,DevOps
+Kubernetes AWS React Docker,0,DevOps
+React Flask FastAPI SQL Python Docker,5,Backend
+FastAPI SQL NodeJS Python Docker,1,Backend
+FastAPI SQL NLP Python Docker,6,Backend
+NLP SQL Python Tensorflow Kubernetes,3,AI
+Flask FastAPI SQL Python Docker,5,Backend
+Python NLP React Tensorflow,5,AI
+HTML CSS React Tensorflow,4,Frontend
+Kubernetes AWS Docker NLP,6,DevOps
+CSS React NodeJS Python HTML,4,Frontend
+Kubernetes AWS Docker CSS,0,DevOps
+HTML CSS React FastAPI,6,Frontend
+AWS NLP NodeJS Docker Kubernetes,3,DevOps
+AWS NodeJS Docker HTML Kubernetes,6,DevOps
+Python NLP NodeJS Tensorflow,5,AI
+CSS React AWS SQL HTML,1,Frontend
+AWS NLP Docker Tensorflow Kubernetes,4,DevOps
+HTML CSS React NLP,1,Frontend
+FastAPI SQL NLP Python Docker Tensorflow,2,Backend
+FastAPI SQL Python Docker HTML,0,Backend
+Python NLP SQL Tensorflow,5,AI
+CSS React Tensorflow HTML Kubernetes,5,Frontend
+AWS NLP Python Tensorflow HTML,3,AI
+AWS NLP SQL Python Tensorflow,3,AI
+React FastAPI NLP Python Tensorflow,4,AI
+HTML CSS React FastAPI,5,Frontend
+HTML CSS React Docker,6,Frontend
+AWS FastAPI SQL Python Docker,5,Backend
+React FastAPI SQL Python Docker Kubernetes,5,Backend
+CSS React FastAPI NLP HTML,0,Frontend
+Python SQL Docker FastAPI,0,Backend
+AWS Flask Python Docker Kubernetes,0,DevOps
+HTML CSS React SQL,0,Frontend
+CSS React Python Tensorflow HTML,6,Frontend
+HTML CSS React Docker,2,Frontend
+FastAPI SQL NLP Python Docker,1,Backend
+AWS NodeJS Python Docker Kubernetes,3,DevOps
+React FastAPI SQL NLP Python Docker,1,Backend
+HTML CSS React,6,Frontend
+Python NLP Tensorflow HTML,5,AI
+Kubernetes AWS Docker Flask,5,DevOps
+Flask NLP SQL Python Tensorflow,2,AI
+FastAPI SQL Python Docker HTML,2,Backend
+Kubernetes AWS Docker HTML,5,DevOps
+FastAPI NLP Python Tensorflow Kubernetes,1,AI
+FastAPI SQL Python Docker Tensorflow,1,Backend
+HTML CSS React Kubernetes,4,Frontend
+Python NLP NodeJS Tensorflow,3,AI
+React FastAPI SQL Python Docker Tensorflow,4,Backend
+AWS CSS NodeJS Docker Kubernetes,2,DevOps
+AWS FastAPI SQL Docker Kubernetes,1,DevOps
+React FastAPI SQL NLP Python Docker,3,Backend
+FastAPI SQL Python Docker HTML,6,Backend
+React FastAPI SQL Python Docker Kubernetes,5,Backend
+CSS React Flask HTML Kubernetes,3,Frontend
+Python NLP Tensorflow Flask,6,AI
+Kubernetes AWS Docker,2,DevOps
+AWS NLP Python Tensorflow HTML,3,AI
+AWS FastAPI SQL NLP Python Docker,2,Backend
+Python NLP Kubernetes Tensorflow,3,AI
+HTML CSS React NodeJS,5,Frontend
+NLP SQL NodeJS Python Tensorflow,3,AI
+Python NLP Kubernetes Tensorflow,2,AI
+AWS Flask Docker HTML Kubernetes,6,DevOps
+FastAPI SQL Python Docker Tensorflow,3,Backend
+Python NLP Kubernetes Tensorflow,3,AI
+CSS React NLP Python HTML,1,Frontend
+React NLP SQL Python Tensorflow,3,AI
+HTML CSS React Kubernetes,3,Frontend
+AWS Python Docker Tensorflow Kubernetes,5,DevOps
+AWS FastAPI Python Docker Kubernetes,6,DevOps
+HTML CSS React NodeJS,1,Frontend
+CSS React Flask NLP HTML,6,Frontend
+Flask FastAPI SQL Python Docker Kubernetes,1,Backend
+HTML CSS React Kubernetes,5,Frontend
+CSS React FastAPI SQL Python Docker,3,Backend
+AWS FastAPI Docker Tensorflow Kubernetes,2,DevOps
+AWS Python Docker HTML Kubernetes,2,DevOps
+AWS React NLP Docker Kubernetes,4,DevOps
+CSS NLP NodeJS Python Tensorflow,5,AI
+HTML CSS React Docker,3,Frontend
+CSS React Python Tensorflow HTML,3,Frontend
+Python SQL Docker FastAPI,2,Backend
+Kubernetes AWS Docker,3,DevOps
+CSS React FastAPI SQL HTML,1,Frontend
+AWS NLP Docker Tensorflow Kubernetes,3,DevOps
+HTML CSS React SQL,6,Frontend
+NLP Python Docker Tensorflow Kubernetes,3,AI
+AWS SQL Docker HTML Kubernetes,2,DevOps
+HTML CSS React Kubernetes,4,Frontend
+AWS FastAPI NLP Docker Kubernetes,1,DevOps
+FastAPI SQL Python Docker Tensorflow,4,Backend
+Python SQL Docker FastAPI,5,Backend
+FastAPI SQL NLP NodeJS Python Docker,4,Backend
+AWS FastAPI SQL Python Docker,5,Backend
+CSS React SQL HTML Kubernetes,0,Frontend
+FastAPI NLP SQL Python Tensorflow,6,AI
+AWS FastAPI SQL Python Docker HTML,4,Backend
+AWS React Docker Tensorflow Kubernetes,6,DevOps
+FastAPI SQL Python Docker Tensorflow,5,Backend
+FastAPI SQL NodeJS Python Docker,0,Backend
+NLP SQL Python Tensorflow Kubernetes,6,AI
+CSS React NodeJS Docker HTML,3,Frontend
+React FastAPI SQL NodeJS Python Docker,1,Backend
+FastAPI SQL NLP NodeJS Python Docker,3,Backend
+Kubernetes AWS Docker Flask,1,DevOps
+HTML CSS React SQL,0,Frontend
+Python SQL Docker FastAPI,4,Backend
+AWS NLP Docker HTML Kubernetes,3,DevOps
+CSS FastAPI SQL Python Docker HTML,4,Backend
+HTML CSS React,5,Frontend
+CSS React AWS NLP HTML,1,Frontend
+CSS React FastAPI SQL HTML,1,Frontend
+Kubernetes AWS Docker Python,1,DevOps
+AWS FastAPI NLP Python Tensorflow,5,AI
+AWS NLP Python Docker Kubernetes,0,DevOps
+Kubernetes AWS Docker NLP,3,DevOps
+HTML CSS React NodeJS,5,Frontend
+AWS Python Docker Tensorflow Kubernetes,2,DevOps
+CSS React Python Tensorflow HTML,1,Frontend
+CSS React FastAPI NodeJS HTML,3,Frontend
+FastAPI SQL NLP Python Docker,5,Backend
+CSS NLP Python Tensorflow HTML,6,AI
+AWS Docker Tensorflow HTML Kubernetes,1,DevOps
+AWS CSS Python Docker Kubernetes,5,DevOps
+Kubernetes AWS React Docker,4,DevOps
+AWS FastAPI SQL NodeJS Python Docker,3,Backend
+FastAPI SQL Python Docker HTML Kubernetes,0,Backend
+Python NLP Tensorflow CSS,1,AI
+AWS NLP Python Tensorflow HTML,4,AI
+Kubernetes AWS Docker Flask,6,DevOps
+AWS NodeJS Docker HTML Kubernetes,3,DevOps
+Flask FastAPI SQL Python Docker Tensorflow,6,Backend
+FastAPI SQL Python Docker HTML,2,Backend
+AWS FastAPI SQL Python Docker HTML,4,Backend
+Kubernetes AWS Docker CSS,0,DevOps
+AWS Python Docker Tensorflow Kubernetes,5,DevOps
+NLP Python Docker Tensorflow Kubernetes,1,AI
+FastAPI NLP Python Tensorflow HTML,3,AI
+AWS React Flask Docker Kubernetes,5,DevOps
+Python SQL Docker FastAPI,2,Backend
+Python NLP React Tensorflow,6,AI
+Python NLP React Tensorflow,6,AI
+CSS React Flask Tensorflow HTML,0,Frontend
+AWS NLP Docker Tensorflow Kubernetes,2,DevOps
+Python NLP Kubernetes Tensorflow,0,AI
+Flask FastAPI SQL Python Docker,5,Backend
+HTML CSS React Python,1,Frontend
+HTML CSS React FastAPI,1,Frontend
+AWS SQL NodeJS Docker Kubernetes,3,DevOps
+AWS FastAPI SQL Python Docker Kubernetes,6,Backend
+CSS React AWS Python HTML,0,Frontend
+AWS Python Docker HTML Kubernetes,5,DevOps
+Python NLP Tensorflow,0,AI
+Python NLP SQL Tensorflow,4,AI
+NLP NodeJS Python Docker Tensorflow,3,AI
+HTML CSS React Flask,4,Frontend
+CSS FastAPI SQL Python Docker Kubernetes,3,Backend
+React NLP NodeJS Python Tensorflow,3,AI
+AWS FastAPI SQL NodeJS Python Docker,5,Backend
+AWS SQL Docker HTML Kubernetes,0,DevOps
+Python NLP Tensorflow CSS,5,AI
+AWS NLP Docker Tensorflow Kubernetes,1,DevOps
+CSS React FastAPI Python HTML,1,Frontend
+Flask NLP Python Tensorflow Kubernetes,5,AI
+Python SQL Docker FastAPI,4,Backend
+FastAPI NLP Python Tensorflow Kubernetes,6,AI
+HTML CSS React Python,2,Frontend
+Kubernetes AWS Docker Python,5,DevOps
+FastAPI SQL Python Docker HTML Kubernetes,5,Backend
+HTML CSS React Tensorflow,2,Frontend
+FastAPI SQL NodeJS Python Docker,6,Backend
+AWS React Flask Docker Kubernetes,0,DevOps
+CSS NLP Python Tensorflow HTML,2,AI
+Python NLP Tensorflow Flask,3,AI
+CSS React SQL HTML Kubernetes,2,Frontend
+FastAPI SQL NLP Python Docker,4,Backend
+CSS React Docker HTML Kubernetes,2,Frontend
+HTML CSS React,2,Frontend
+CSS React SQL Docker HTML,1,Frontend
+Python NLP SQL Tensorflow,1,AI
+Python NLP Tensorflow CSS,5,AI
+Kubernetes AWS React Docker,6,DevOps
+CSS React SQL NodeJS HTML,5,Frontend
+Python NLP Docker Tensorflow,1,AI
+Python NLP Tensorflow HTML,0,AI
+FastAPI NLP NodeJS Python Tensorflow,3,AI
+AWS FastAPI SQL NodeJS Python Docker,3,Backend
+CSS React AWS HTML Kubernetes,6,Frontend
+Python NLP Kubernetes Tensorflow,3,AI
+CSS React Flask Docker HTML,3,Frontend
+CSS FastAPI SQL Python Docker,5,Backend
+Kubernetes AWS Docker HTML,2,DevOps
+CSS React Flask Docker HTML,0,Frontend
+Kubernetes AWS Docker Flask,5,DevOps
+Kubernetes AWS Docker NLP,2,DevOps
+AWS NLP Docker Tensorflow Kubernetes,1,DevOps
+AWS React NLP Python Tensorflow,3,AI
+React FastAPI NLP Python Tensorflow,6,AI
+HTML CSS React,4,Frontend
+CSS FastAPI SQL Python Docker Kubernetes,5,Backend
+CSS FastAPI SQL Python Docker,3,Backend
+Flask FastAPI SQL Python Docker Tensorflow,3,Backend
+React FastAPI SQL NodeJS Python Docker,6,Backend
+CSS React Tensorflow HTML Kubernetes,1,Frontend
+CSS React AWS HTML Kubernetes,1,Frontend
+HTML CSS React FastAPI,5,Frontend
+AWS CSS Docker Tensorflow Kubernetes,4,DevOps
+AWS FastAPI SQL Python Docker Kubernetes,4,Backend
+FastAPI SQL NodeJS Python Docker,2,Backend
+FastAPI SQL Python Docker HTML,1,Backend
+Kubernetes AWS Docker Python,1,DevOps
+Flask NLP Python Docker Tensorflow,4,AI
+CSS React SQL HTML Kubernetes,3,Frontend
+Python NLP Tensorflow Flask,3,AI
+CSS FastAPI NLP Python Tensorflow,0,AI
+CSS NLP NodeJS Python Tensorflow,3,AI
+FastAPI SQL NodeJS Python Docker HTML,5,Backend
+HTML CSS React AWS,4,Frontend
+HTML CSS React FastAPI,1,Frontend
+AWS CSS Python Docker Kubernetes,6,DevOps
+FastAPI NLP SQL Python Tensorflow,2,AI
+React NLP NodeJS Python Tensorflow,1,AI
+AWS NodeJS Python Docker Kubernetes,3,DevOps
+HTML CSS React NLP,1,Frontend
+React FastAPI SQL Python Docker Kubernetes,4,Backend
+AWS NodeJS Docker HTML Kubernetes,2,DevOps
+CSS React FastAPI Tensorflow HTML,3,Frontend
+AWS React SQL Docker Kubernetes,3,DevOps
+AWS FastAPI Docker HTML Kubernetes,4,DevOps
+Flask NLP Python Tensorflow Kubernetes,3,AI
+CSS React SQL Docker HTML,5,Frontend
+FastAPI SQL NodeJS Python Docker,4,Backend
+HTML CSS React NodeJS,4,Frontend
+AWS FastAPI SQL Python Docker Tensorflow,4,Backend
+CSS React NLP HTML Kubernetes,1,Frontend
+HTML CSS React SQL,6,Frontend
+React NLP SQL Python Tensorflow,3,AI
+Kubernetes AWS Docker,6,DevOps
+HTML CSS React Kubernetes,2,Frontend
+CSS FastAPI SQL Python Docker HTML,5,Backend
+CSS React FastAPI NodeJS HTML,0,Frontend
+AWS Flask FastAPI SQL Python Docker,4,Backend
+Flask FastAPI SQL Python Docker HTML,2,Backend
+FastAPI NLP Python Tensorflow HTML,1,AI
+AWS SQL Docker HTML Kubernetes,1,DevOps
+HTML CSS React SQL,6,Frontend
+AWS CSS NLP Python Tensorflow,2,AI
+FastAPI SQL NodeJS Python Docker,5,Backend
+AWS Flask NLP Docker Kubernetes,1,DevOps
+FastAPI SQL NLP Python Docker Tensorflow,3,Backend
+CSS FastAPI SQL Python Docker Kubernetes,1,Backend
+AWS React NodeJS Docker Kubernetes,6,DevOps
+Kubernetes AWS Docker NodeJS,5,DevOps
+Kubernetes AWS Docker HTML,3,DevOps
+AWS React CSS Docker Kubernetes,5,DevOps
+FastAPI SQL NLP Python Docker,4,Backend
+CSS React NLP Python HTML,4,Frontend
+AWS NLP SQL Python Tensorflow,2,AI
+HTML CSS React Python,5,Frontend
+HTML CSS React AWS,5,Frontend
+HTML CSS React AWS,0,Frontend
+AWS React CSS Docker Kubernetes,6,DevOps
+Python NLP Kubernetes Tensorflow,6,AI
+AWS NodeJS Docker HTML Kubernetes,1,DevOps
+FastAPI SQL NLP Python Docker,2,Backend
+AWS FastAPI SQL Python Docker Kubernetes,4,Backend
+Python NLP Kubernetes Tensorflow,0,AI
+AWS React NLP Docker Kubernetes,4,DevOps
+CSS React FastAPI Python HTML,0,Frontend
+FastAPI SQL Python Docker Kubernetes,1,Backend
+Python NLP Docker Tensorflow,5,AI
+AWS CSS Flask Docker Kubernetes,6,DevOps
+FastAPI SQL NLP Python Docker,0,Backend
+Kubernetes AWS Docker Flask,2,DevOps
+FastAPI SQL NLP NodeJS Python Docker,1,Backend
+AWS NodeJS Python Docker Kubernetes,3,DevOps
+AWS React CSS Docker Kubernetes,3,DevOps
+CSS React NLP Tensorflow HTML,4,Frontend
+AWS FastAPI SQL NLP Python Docker,3,Backend
+NLP Python Docker Tensorflow HTML,4,AI
+React FastAPI SQL Python Docker HTML,2,Backend
+AWS Flask FastAPI SQL Python Docker,5,Backend
+React FastAPI NLP Python Tensorflow,1,AI
+Python NLP Kubernetes Tensorflow,0,AI
+HTML CSS React Tensorflow,0,Frontend
+Flask FastAPI SQL Python Docker,1,Backend
+HTML CSS React NLP,3,Frontend
+FastAPI SQL NodeJS Python Docker Tensorflow,6,Backend
+CSS React Flask SQL HTML,6,Frontend
+Flask FastAPI SQL Python Docker Kubernetes,6,Backend
+Python NLP Tensorflow Flask,3,AI
+Python SQL Docker FastAPI,0,Backend
+AWS NLP Python Tensorflow Kubernetes,5,AI
+AWS SQL Python Docker Kubernetes,3,DevOps
+CSS React AWS NLP HTML,3,Frontend
+React FastAPI SQL Python Docker Tensorflow,4,Backend
+Kubernetes AWS React Docker,0,DevOps
+CSS FastAPI NLP Python Tensorflow,1,AI
+HTML CSS React Tensorflow,1,Frontend
+React Flask FastAPI SQL Python Docker,6,Backend
+Flask FastAPI SQL NLP Python Docker,0,Backend
+FastAPI NLP Python Tensorflow Kubernetes,2,AI
+CSS NLP Python Tensorflow Kubernetes,1,AI
+Kubernetes AWS Docker SQL,4,DevOps
+CSS React SQL Tensorflow HTML,1,Frontend
+FastAPI SQL NLP Python Docker,4,Backend
+Kubernetes AWS Docker,0,DevOps
+CSS React SQL HTML Kubernetes,6,Frontend
+HTML CSS React NodeJS,0,Frontend
+AWS React NLP Python Tensorflow,1,AI
+FastAPI SQL Python Docker HTML,2,Backend
+Python NLP Kubernetes Tensorflow,1,AI
+React FastAPI SQL NLP Python Docker,5,Backend
+AWS FastAPI Docker HTML Kubernetes,6,DevOps
+CSS FastAPI SQL Python Docker,1,Backend
+HTML CSS React AWS,2,Frontend
+HTML CSS React,1,Frontend
+CSS React AWS Tensorflow HTML,5,Frontend
+CSS FastAPI SQL NodeJS Python Docker,1,Backend
+CSS FastAPI SQL Python Docker HTML,6,Backend
+CSS React AWS Python HTML,5,Frontend
+FastAPI SQL Python Docker HTML,3,Backend
+Python NLP Tensorflow CSS,3,AI
+Kubernetes AWS Docker FastAPI,1,DevOps
+Python NLP Tensorflow HTML,3,AI
+Kubernetes AWS Docker NodeJS,5,DevOps
+AWS CSS FastAPI SQL Python Docker,1,Backend
+NLP Python Tensorflow HTML Kubernetes,2,AI
+Flask NLP Python Tensorflow HTML,3,AI
+FastAPI SQL NLP NodeJS Python Docker,3,Backend
+Python NLP Tensorflow Flask,6,AI
+CSS React AWS NodeJS HTML,3,Frontend
+Flask FastAPI SQL Python Docker,0,Backend
+Python NLP Tensorflow,0,AI
+Kubernetes AWS Docker NLP,4,DevOps
+AWS SQL NodeJS Docker Kubernetes,6,DevOps
+CSS React Flask SQL HTML,3,Frontend
+Flask FastAPI SQL Python Docker HTML,3,Backend
+Python NLP Tensorflow FastAPI,4,AI
+CSS React NLP NodeJS HTML,4,Frontend
+Python SQL Docker FastAPI,5,Backend
+HTML CSS React Docker,4,Frontend
+Python NLP NodeJS Tensorflow,5,AI
+CSS React Tensorflow HTML Kubernetes,0,Frontend
+CSS React FastAPI NodeJS HTML,0,Frontend
+CSS React Python HTML Kubernetes,4,Frontend
+HTML CSS React NodeJS,5,Frontend
+CSS React SQL NLP HTML,4,Frontend
+React NLP Python Tensorflow HTML,0,AI
+CSS React AWS SQL HTML,3,Frontend
+HTML CSS React Docker,2,Frontend
+CSS React AWS Python HTML,4,Frontend
+HTML CSS React Tensorflow,0,Frontend
+Python SQL Docker FastAPI,4,Backend
+CSS React AWS Tensorflow HTML,3,Frontend
+AWS FastAPI SQL Python Docker,0,Backend
+Flask NLP Python Tensorflow HTML,6,AI
+AWS NLP Python Tensorflow HTML,2,AI
+CSS React AWS SQL HTML,1,Frontend
+CSS FastAPI NLP Python Tensorflow,2,AI
+AWS React SQL Docker Kubernetes,4,DevOps
+Python NLP Tensorflow,4,AI
+HTML CSS React Kubernetes,2,Frontend
+Python SQL Docker FastAPI,1,Backend
+Flask NLP Python Docker Tensorflow,4,AI
+CSS React NodeJS Python HTML,3,Frontend

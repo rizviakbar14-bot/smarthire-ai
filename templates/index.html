@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SmartHire AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #4e73df, #1cc88a);
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            background: white;
+            color: black;
+            padding: 30px;
+            border-radius: 10px;
+            width: 50%;
+            margin: auto;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+
+        textarea, input {
+            width: 80%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            background-color: #4e73df;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #2e59d9;
+        }
+
+        .prediction {
+            margin-top: 20px;
+            font-size: 20px;
+            color: #1cc88a;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>🚀 SmartHire AI</h2>
+        <p>Resume Department Prediction System</p>
+
+        <form action="/predict-form" method="post">
+            <label>Skills</label><br>
+            <textarea name="skills" rows="4"></textarea><br>
+
+            <label>Years of Experience</label><br>
+            <input type="number" name="years_experience"><br>
+
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if prediction %}
+        <div class="prediction">
+            Predicted Department: {{ prediction }}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
