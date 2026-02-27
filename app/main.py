@@ -4,6 +4,8 @@ from fastapi.responses import HTMLResponse
 import pickle
 import os
 import pandas as pd
+from fastapi.responses import HTMLResponse
+from sqlalchemy.orm import Session
 
 app = FastAPI(title="SmartHire AI")
 
@@ -49,3 +51,16 @@ def predict_api(skills: str, years_experience: int):
     )
     prediction = model.predict(input_data)[0]
     return {"predicted_department": prediction}
+
+@app.get("/admin", response_class=HTMLResponse)
+def view_predictions():
+    db: Session = SessionLocal()
+    records = db.query(Prediction).all()
+    db.close()
+
+    html = "<h1>Saved Predictions</h1><ul>"
+    for r in records:
+        html += f"<li>{r.skills} | {r.experience} | {r.prediction} | {r.created_at}</li>"
+    html += "</ul>"
+
+    return html
