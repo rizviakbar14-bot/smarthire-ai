@@ -1,3 +1,5 @@
+from urllib import request
+
 from fastapi import FastAPI, Form, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
@@ -6,8 +8,12 @@ import os
 import pandas as pd
 from fastapi.responses import HTMLResponse
 from sqlalchemy.orm import Session
+from .database import engine, SessionLocal
+from .models import Prediction
+from sqlalchemy.orm import Session
 
 app = FastAPI(title="SmartHire AI")
+Prediction.metadata.create_all(bind=engine)
 
 # Templates setup
 templates = Jinja2Templates(directory="templates")
@@ -50,6 +56,22 @@ def predict_api(skills: str, years_experience: int):
         columns=["skills", "years_experience"]
     )
     prediction = model.predict(input_data)[0]
+    db: Session = SessionLocal()
+
+    new_entry = Prediction(
+        skills=skills,
+        experience=str(years_experience),
+        prediction=prediction
+    )
+
+    db.add(new_entry)
+    db.commit()
+    db.close()
+
+    return templates.TemplateResponse(
+        "index.html",
+        {"request": request, "prediction": prediction}
+    )
     return {"predicted_department": prediction}
 
 @app.get("/admin", response_class=HTMLResponse)
