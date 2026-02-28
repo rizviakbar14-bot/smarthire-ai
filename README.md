@@ -96,6 +96,81 @@ smarthire-ai/
 
 ---
 
+## 👨‍💻 Author
+
+Mohammad Akbar
+B.Tech – Computer Science
+
+Skills: Python | AWS | Machine Learning | FastAPI | Docker | Backend Systems
+
+--
+
+
+
+## 📈 Future Improvements
+
+SHAP-based local explainability
+
+Real-world resume dataset integration
+
+Role-to-job matching system
+
+PostgreSQL production database
+
+Modern dashboard UI
+
+Cloud-native CI/CD integration
+
+__
+
+
+## 🎯 Problem Statement
+
+Recruiters receive thousands of resumes. Manually classifying candidates 
+into relevant technical departments is time-consuming and inconsistent.
+
+SmartHire AI automates this process using Machine Learning, 
+providing fast, consistent, and explainable predictions.
+
+--
+
+## 📜 License
+
+This project is open-source and intended for educational and research purposes.
+
+--
+
+# 🔥 Why This Version Is Better
+
+- Clean formatting
+- Strong technical language
+- Proper spacing
+- Professional structure
+- Clear architecture explanation
+- Docker-first deployment
+- No Render dependency
+- Looks like production software documentation
+
+---
+
+# 🚀 Next Upgrade (Optional but Powerful)
+
+We can add:
+
+- GitHub badges (Python, Docker, FastAPI)
+- Screenshots section
+- Architecture diagram image
+- Tech stack badge section
+- “Why I Built This” section (very impressive for internships)
+
+If you want to make this **top 5% level GitHub**, say:
+
+> Make it elite.
+
+And we’ll take it up another level.
+
+__
+
 ## 🐳 Run Using Docker (Recommended)
 
 ### 1️⃣ Build Image
@@ -148,59 +223,4 @@ managed
 
 This makes the model decision transparent and interpretable.
 
-📈 Future Improvements
-
-SHAP-based local explainability
-
-Real-world resume dataset integration
-
-Role-to-job matching system
-
-PostgreSQL production database
-
-Modern dashboard UI
-
-Cloud-native CI/CD integration
-
-👨‍💻 Author
-
-Mohammad Akbar
-B.Tech – Computer Science
-
-Skills: Python | AWS | Machine Learning | FastAPI | Docker | Backend Systems
-
-📜 License
-
-This project is open-source and intended for educational and research purposes.
-
-
----
-
-# 🔥 Why This Version Is Better
-
-- Clean formatting
-- Strong technical language
-- Proper spacing
-- Professional structure
-- Clear architecture explanation
-- Docker-first deployment
-- No Render dependency
-- Looks like production software documentation
-
----
-
-# 🚀 Next Upgrade (Optional but Powerful)
-
-We can add:
-
-- GitHub badges (Python, Docker, FastAPI)
-- Screenshots section
-- Architecture diagram image
-- Tech stack badge section
-- “Why I Built This” section (very impressive for internships)
-
-If you want to make this **top 5% level GitHub**, say:
-
-> Make it elite.
-
-And we’ll take it up another level.
+----------------------------------------------------------------------------------------------
