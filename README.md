@@ -1,55 +1,155 @@
-# SmartHire AI 🚀
+# 🚀 SmartHire AI – Resume Classification System
 
-AI-powered Resume Classification & Job Matching System  
-Built with **FastAPI**, **Scikit-learn**, **Docker**, and a simple **Frontend UI**.
+SmartHire AI is a full-stack Machine Learning web application that analyzes resumes and predicts the most suitable technical department:
+
+- DevOps  
+- Backend Engineering  
+- Frontend Engineering  
+- Artificial Intelligence  
+
+It uses Natural Language Processing (TF-IDF), Logistic Regression, and Explainable AI techniques to provide both prediction confidence and feature-level explanation.
 
 ---
 
-## 🔍 Overview
+## 🔥 Live Demo
 
-SmartHire AI is a full-stack machine learning application that:
-
-✔ Predicts the most suitable department (AI, Backend, Frontend, DevOps)  
-✔ Takes skills + years of experience as input  
-✔ Uses a trained ML model with TF-IDF + LinearSVC  
-✔ Runs as a web app with clean UI  
-✔ Containerized with Docker  
-✔ Easy to deploy anywhere
+🌐 Live App: https://smarthire-ai-ml5m.onrender.com  
 
 ---
 
 ## 🧠 Features
 
-- Responsive form-based UI
-- Intelligent job prediction
-- Production-ready backend with FastAPI
-- Dockerized for portability
-- Clear, structured ML pipeline
-- Clean folder structure
+✅ Resume PDF Upload  
+✅ Text Extraction from PDF  
+✅ Department Prediction  
+✅ Confidence Scores (%)  
+✅ Explainable AI (Top Influencing Keywords)  
+✅ REST API Endpoint  
+✅ SQLite Database Logging  
+✅ Dockerized Deployment  
+✅ Production-ready FastAPI backend  
 
 ---
 
-## 🧪 Demo
-
-> (You can add your deployed link here once live)
-
----
-
-## 📦 Tech Stack
-
-| Component | Technology |
-|-----------|------------|
-| Backend | FastAPI |
-| Machine Learning | Scikit-learn |
-| Text Processing | TF-IDF |
-| Deployment | Docker |
-| Frontend | HTML + CSS (Jinja2 Templates) |
+## 🏗 Architecture
+Resume PDF → Text Extraction (PyPDF2)
+↓
+TF-IDF Vectorization (1–3 ngrams)
+↓
+ColumnTransformer (Text + Experience)
+↓
+Logistic Regression Classifier
+↓
+Confidence Scores + Top Feature Explanation
+↓
+FastAPI Web Interface
 
 ---
 
-## 🛠️ Installation (Local)
+## 📊 Machine Learning Pipeline
 
-1. Clone the repo:
+- TF-IDF (1–3 grams)
+- Stopword removal
+- Feature scaling for numeric input
+- Logistic Regression (predict_proba enabled)
+- Balanced synthetic dataset (1000+ samples)
+
+Explainability:
+- Extracts top weighted contributing features for prediction.
+
+---
+
+## 📁 Project Structure
+
+smarthire-ai/
+│
+├── app/
+│ ├── main.py
+│ ├── models.py
+│ ├── database.py
+│
+├── data/
+│ └── training_dataset.csv
+│
+├── templates/
+│ └── index.html
+│
+├── train_model.py
+├── generate_dataset.py
+├── requirements.txt
+├── Dockerfile
+├── model.pkl
+└── README.md
+
+---
+
+## 🐳 Run Using Docker
+
+### Build Image
 
 ```bash
-git clone https://github.com/rizviakbar14-bot/smarthire-ai.git
+docker build -t smarthire-ai .
+docker run -p 8000:8000 smarthire-ai
+http://localhost:8000
+
+🛠 Run Locally (Without Docker)
+pip install -r requirements.txt
+python train_model.py
+uvicorn app.main:app --reload
+
+📡 API Usage
+POST /predict
+
+Example:
+POST /predict?skills=Python AWS Docker&years_experience=3
+
+{
+  "predicted_department": "DevOps",
+  "confidence_scores": [
+    ["DevOps", 58.14],
+    ["Backend", 24.79],
+    ["Frontend", 10.28],
+    ["AI", 6.79]
+  ]
+}
+
+🔎 Explainability Example
+
+Predicted: DevOps
+Confidence: 58.14%
+
+Top Influencing Words:
+
+infrastructure
+
+automated
+
+cloud
+
+deployments
+
+managed
+
+💡 Future Improvements
+
+SHAP-based explainability
+
+Real-world resume dataset integration
+
+Role-based scoring system
+
+Job matching system
+
+Advanced UI dashboard
+
+Cloud logging with PostgreSQL
+
+👨‍💻 Author
+
+Mohammad Akbar
+B.Tech Computer Science
+Python | AWS | Machine Learning | Backend Development
+
+📜 License
+
+This project is open-source and available for learning and educational use.
