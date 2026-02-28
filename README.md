@@ -103,7 +103,7 @@ B.Tech – Computer Science
 
 Skills: Python | AWS | Machine Learning | FastAPI | Docker | Backend Systems
 
---
+---
 
 
 
@@ -121,7 +121,7 @@ Modern dashboard UI
 
 Cloud-native CI/CD integration
 
-__
+---
 
 
 ## 🎯 Problem Statement
@@ -132,13 +132,13 @@ into relevant technical departments is time-consuming and inconsistent.
 SmartHire AI automates this process using Machine Learning, 
 providing fast, consistent, and explainable predictions.
 
---
+---
 
 ## 📜 License
 
 This project is open-source and intended for educational and research purposes.
 
---
+---
 
 # 🔥 Why This Version Is Better
 
@@ -169,7 +169,7 @@ If you want to make this **top 5% level GitHub**, say:
 
 And we’ll take it up another level.
 
-__
+---
 
 ## 🐳 Run Using Docker (Recommended)
 
@@ -223,4 +223,4 @@ managed
 
 This makes the model decision transparent and interpretable.
 
-----------------------------------------------------------------------------------------------
+---
