@@ -98,7 +98,7 @@ smarthire-ai/
 
 ## 🔥 Live Demo
 
-🌐 Live App: docker run --hostname=96a789949e14 --env=PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=LANG=C.UTF-8 --env=GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D --env=PYTHON_VERSION=3.11.14 --env=PYTHON_SHA256=8d3ed8ec5c88c1c95f5e558612a725450d2452813ddad5e58fdb1a53b1209b78 --network=bridge --workdir=/app -p 8000:8000 --restart=no --runtime=runc -d smarthire-ai
+🌐 Live App: http://127.0.0.1:8000/
 
 ---
 
